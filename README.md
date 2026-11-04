@@ -1,14 +1,10 @@
-<div align="center">
+<h1 align="center">Unhas Club</h1>
 
-<sub>BELEZA</sub>
+<p align="center">Conceito de presença digital para serviços, estilo e cuidados com unhas.</p>
 
-<h1>Unhas Club</h1>
+<p align="center">![documentação](https://img.shields.io/badge/documenta%C3%A7%C3%A3o-F43F5E?style=flat-square&labelColor=111827) ![público](https://img.shields.io/badge/p%C3%BAblico-F43F5E?style=flat-square&labelColor=111827)</p>
 
-<p>Documentação inicial · Código ainda não publicado neste repositório.</p>
-
-<p><a href="#situação-do-repositório">Situação do repositório</a> &nbsp;·&nbsp; <a href="#acessar-o-repositório">Acessar o repositório</a> &nbsp;·&nbsp; <a href="#próximos-passos">Próximos passos</a> &nbsp;·&nbsp; <a href="#colaboração">Colaboração</a></p>
-
-</div>
+<table><tr><td><strong>Categoria</strong></td><td>NAIL DESIGN</td></tr><tr><td><strong>Responsável</strong></td><td>Paulo Matheus</td></tr></table>
 
 ---
 
