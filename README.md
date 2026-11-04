@@ -2,7 +2,7 @@
 
 <p align="center">Conceito de presença digital para serviços, estilo e cuidados com unhas.</p>
 
-<p align="center">![documentação](https://img.shields.io/badge/documenta%C3%A7%C3%A3o-F43F5E?style=flat-square&labelColor=111827) ![público](https://img.shields.io/badge/p%C3%BAblico-F43F5E?style=flat-square&labelColor=111827)</p>
+<p align="center"><img alt="documentação" src="https://img.shields.io/badge/documenta%C3%A7%C3%A3o-F43F5E?style=flat-square&labelColor=111827" /> <img alt="público" src="https://img.shields.io/badge/p%C3%BAblico-F43F5E?style=flat-square&labelColor=111827" /></p>
 
 <table><tr><td><strong>Categoria</strong></td><td>NAIL DESIGN</td></tr><tr><td><strong>Responsável</strong></td><td>Paulo Matheus</td></tr></table>
 
