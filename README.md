@@ -8,9 +8,7 @@
 
 ---
 
-<!-- readme:project-navigation -->
 <p align="center"><sub><a href="#sobre">Sobre</a> &nbsp;·&nbsp; <a href="#estado-atual">Estado atual</a> &nbsp;·&nbsp; <a href="#linguagens">Linguagens</a> &nbsp;·&nbsp; <a href="#ver-online">Ver online</a> &nbsp;·&nbsp; <a href="#proximo-passo">Próximo passo</a></sub></p>
-<!-- /readme:project-navigation -->
 
 ## Sobre
 
@@ -18,11 +16,13 @@ Página voltada a serviços de unhas e apresentação de trabalhos.
 
 ## Estado atual
 
-**Demonstração publicada.** Existe uma demonstração online, mas o código-fonte ainda não foi enviado para este repositório.
+**Demonstração publicada.** A demonstração está no ar. O código usado nela ainda será organizado e enviado para este repositório.
 
 ## Linguagens
 
-Nenhuma linguagem detectada: só há documentação neste repositório.
+Este repositório guarda a apresentação do projeto. Como os arquivos do site ainda não estão aqui, o GitHub não tem uma linguagem para calcular por enquanto.
+
+<img alt="README" src="https://img.shields.io/badge/README-374151?style=for-the-badge&logo=markdown&logoColor=white" />
 
 ## Ver online
 
