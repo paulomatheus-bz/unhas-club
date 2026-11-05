@@ -16,4 +16,8 @@ A demonstração funciona como uma vitrine: mostra os serviços e encaminha o vi
 
 O código ainda não foi separado para este repositório. A próxima implementação deve manter a navegação leve e priorizar fotos autorizadas. A stack prevista é HTML, CSS e JavaScript.
 
+## Continuidade do projeto
+
+A página deve refletir os serviços e as fotos autorizadas pela profissional. Vou revisar o link de agendamento e a navegação no celular sempre que atualizar a demonstração; o código ainda precisa ser organizado neste repositório.
+
 <p align="center"><sub>Desenvolvido por <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a></sub></p>
