@@ -1,8 +1,4 @@
-<div align="center">
-
 # Unhas Club
-
-*Criei uma página para apresentar serviços de nail design e divulgar os trabalhos da profissional.*
 
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -11,7 +7,9 @@
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 </p>
 
-</div>
+> Criei uma página para apresentar serviços de nail design e divulgar os trabalhos da profissional.
+
+---
 
 <p><sub>Stack planejada; o código ainda não está neste repositório.</sub></p>
 **Acessar:** https://unhas-club.vercel.app
