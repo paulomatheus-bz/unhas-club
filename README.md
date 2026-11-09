@@ -7,7 +7,7 @@
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 </p>
 
-> Criei uma página para apresentar serviços de nail design e divulgar os trabalhos da profissional.
+> Desenvolvi uma página para apresentar serviços de nail design e divulgar os trabalhos da profissional.
 
 ---
 
