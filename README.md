@@ -7,14 +7,14 @@
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 </p>
 
-> Vitrine online para divulgar serviços e trabalhos de nail design.
+> Vitrine online para serviços de nail design.
 
 ---
 
-**Acessar:** https://unhas-club.vercel.app
+**Página:** https://unhas-club.vercel.app
 
-A demonstração funciona como vitrine dos serviços e direciona o visitante para conversar e agendar com a profissional. Horários e disponibilidade são tratados diretamente com ela.
+Vitrine de serviços de nail design. O contato e os horários são tratados diretamente com a profissional.
 
-O código ainda não está neste repositório. HTML, CSS e JavaScript são a stack prevista para a próxima implementação.
+O código não está neste repositório. A stack prevista é HTML, CSS e JavaScript.
 
 <p align="center"><sub>Desenvolvido por <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a></sub></p>
