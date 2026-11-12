@@ -17,4 +17,9 @@ Vitrine de serviços de nail design. O contato e os horários são tratados dire
 
 O código não está neste repositório. A stack prevista é HTML, CSS e JavaScript.
 
+
+## Vitrine de serviços
+
+Apresentação de serviços de nail design com agendamento realizado diretamente com a profissional.
+
 <p align="center"><sub>Desenvolvido por <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a></sub></p>
